@@ -1,0 +1,13 @@
+C:\Users\sharo\Documents\Visual Studio 2019\DateTime\bin\Debug\netcoreapp3.1\DateTime.exe
+C:\Users\sharo\Documents\Visual Studio 2019\DateTime\bin\Debug\netcoreapp3.1\DateTime.deps.json
+C:\Users\sharo\Documents\Visual Studio 2019\DateTime\bin\Debug\netcoreapp3.1\DateTime.runtimeconfig.json
+C:\Users\sharo\Documents\Visual Studio 2019\DateTime\bin\Debug\netcoreapp3.1\DateTime.runtimeconfig.dev.json
+C:\Users\sharo\Documents\Visual Studio 2019\DateTime\bin\Debug\netcoreapp3.1\DateTime.dll
+C:\Users\sharo\Documents\Visual Studio 2019\DateTime\bin\Debug\netcoreapp3.1\DateTime.pdb
+C:\Users\sharo\Documents\Visual Studio 2019\DateTime\obj\Debug\netcoreapp3.1\DateTime.csprojAssemblyReference.cache
+C:\Users\sharo\Documents\Visual Studio 2019\DateTime\obj\Debug\netcoreapp3.1\DateTime.csproj.CoreCompileInputs.cache
+C:\Users\sharo\Documents\Visual Studio 2019\DateTime\obj\Debug\netcoreapp3.1\DateTime.AssemblyInfoInputs.cache
+C:\Users\sharo\Documents\Visual Studio 2019\DateTime\obj\Debug\netcoreapp3.1\DateTime.AssemblyInfo.cs
+C:\Users\sharo\Documents\Visual Studio 2019\DateTime\obj\Debug\netcoreapp3.1\DateTime.dll
+C:\Users\sharo\Documents\Visual Studio 2019\DateTime\obj\Debug\netcoreapp3.1\DateTime.pdb
+C:\Users\sharo\Documents\Visual Studio 2019\DateTime\obj\Debug\netcoreapp3.1\DateTime.genruntimeconfig.cache

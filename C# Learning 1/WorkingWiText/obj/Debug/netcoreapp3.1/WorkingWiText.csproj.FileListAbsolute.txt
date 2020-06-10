@@ -1,0 +1,13 @@
+C:\Users\sharo\Documents\Visual Studio 2019\WorkingWiText\bin\Debug\netcoreapp3.1\WorkingWiText.exe
+C:\Users\sharo\Documents\Visual Studio 2019\WorkingWiText\bin\Debug\netcoreapp3.1\WorkingWiText.deps.json
+C:\Users\sharo\Documents\Visual Studio 2019\WorkingWiText\bin\Debug\netcoreapp3.1\WorkingWiText.runtimeconfig.json
+C:\Users\sharo\Documents\Visual Studio 2019\WorkingWiText\bin\Debug\netcoreapp3.1\WorkingWiText.runtimeconfig.dev.json
+C:\Users\sharo\Documents\Visual Studio 2019\WorkingWiText\bin\Debug\netcoreapp3.1\WorkingWiText.dll
+C:\Users\sharo\Documents\Visual Studio 2019\WorkingWiText\bin\Debug\netcoreapp3.1\WorkingWiText.pdb
+C:\Users\sharo\Documents\Visual Studio 2019\WorkingWiText\obj\Debug\netcoreapp3.1\WorkingWiText.csprojAssemblyReference.cache
+C:\Users\sharo\Documents\Visual Studio 2019\WorkingWiText\obj\Debug\netcoreapp3.1\WorkingWiText.csproj.CoreCompileInputs.cache
+C:\Users\sharo\Documents\Visual Studio 2019\WorkingWiText\obj\Debug\netcoreapp3.1\WorkingWiText.AssemblyInfoInputs.cache
+C:\Users\sharo\Documents\Visual Studio 2019\WorkingWiText\obj\Debug\netcoreapp3.1\WorkingWiText.AssemblyInfo.cs
+C:\Users\sharo\Documents\Visual Studio 2019\WorkingWiText\obj\Debug\netcoreapp3.1\WorkingWiText.dll
+C:\Users\sharo\Documents\Visual Studio 2019\WorkingWiText\obj\Debug\netcoreapp3.1\WorkingWiText.pdb
+C:\Users\sharo\Documents\Visual Studio 2019\WorkingWiText\obj\Debug\netcoreapp3.1\WorkingWiText.genruntimeconfig.cache

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30114.105
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClassCoupling", "ClassCoupling.csproj", "{B2D09ECA-D2B0-45BE-ACC3-2009F043BF27}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B2D09ECA-D2B0-45BE-ACC3-2009F043BF27}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B2D09ECA-D2B0-45BE-ACC3-2009F043BF27}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B2D09ECA-D2B0-45BE-ACC3-2009F043BF27}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B2D09ECA-D2B0-45BE-ACC3-2009F043BF27}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {84B997A4-122C-4CA3-BFCA-49F09DC80A0C}
+	EndGlobalSection
+EndGlobal

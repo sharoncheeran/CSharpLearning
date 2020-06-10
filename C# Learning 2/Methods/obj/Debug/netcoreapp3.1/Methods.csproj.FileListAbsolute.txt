@@ -1,0 +1,13 @@
+C:\Users\sharo\Documents\Visual Studio 2019\C# Learning 2\Methods\bin\Debug\netcoreapp3.1\Methods.exe
+C:\Users\sharo\Documents\Visual Studio 2019\C# Learning 2\Methods\bin\Debug\netcoreapp3.1\Methods.deps.json
+C:\Users\sharo\Documents\Visual Studio 2019\C# Learning 2\Methods\bin\Debug\netcoreapp3.1\Methods.runtimeconfig.json
+C:\Users\sharo\Documents\Visual Studio 2019\C# Learning 2\Methods\bin\Debug\netcoreapp3.1\Methods.runtimeconfig.dev.json
+C:\Users\sharo\Documents\Visual Studio 2019\C# Learning 2\Methods\bin\Debug\netcoreapp3.1\Methods.dll
+C:\Users\sharo\Documents\Visual Studio 2019\C# Learning 2\Methods\bin\Debug\netcoreapp3.1\Methods.pdb
+C:\Users\sharo\Documents\Visual Studio 2019\C# Learning 2\Methods\obj\Debug\netcoreapp3.1\Methods.csprojAssemblyReference.cache
+C:\Users\sharo\Documents\Visual Studio 2019\C# Learning 2\Methods\obj\Debug\netcoreapp3.1\Methods.csproj.CoreCompileInputs.cache
+C:\Users\sharo\Documents\Visual Studio 2019\C# Learning 2\Methods\obj\Debug\netcoreapp3.1\Methods.AssemblyInfoInputs.cache
+C:\Users\sharo\Documents\Visual Studio 2019\C# Learning 2\Methods\obj\Debug\netcoreapp3.1\Methods.AssemblyInfo.cs
+C:\Users\sharo\Documents\Visual Studio 2019\C# Learning 2\Methods\obj\Debug\netcoreapp3.1\Methods.dll
+C:\Users\sharo\Documents\Visual Studio 2019\C# Learning 2\Methods\obj\Debug\netcoreapp3.1\Methods.pdb
+C:\Users\sharo\Documents\Visual Studio 2019\C# Learning 2\Methods\obj\Debug\netcoreapp3.1\Methods.genruntimeconfig.cache

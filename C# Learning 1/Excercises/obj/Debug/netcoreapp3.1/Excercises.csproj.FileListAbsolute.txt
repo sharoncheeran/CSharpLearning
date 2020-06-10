@@ -1,0 +1,13 @@
+C:\Users\sharo\Documents\Visual Studio 2019\Excercises\bin\Debug\netcoreapp3.1\Excercises.exe
+C:\Users\sharo\Documents\Visual Studio 2019\Excercises\bin\Debug\netcoreapp3.1\Excercises.deps.json
+C:\Users\sharo\Documents\Visual Studio 2019\Excercises\bin\Debug\netcoreapp3.1\Excercises.runtimeconfig.json
+C:\Users\sharo\Documents\Visual Studio 2019\Excercises\bin\Debug\netcoreapp3.1\Excercises.runtimeconfig.dev.json
+C:\Users\sharo\Documents\Visual Studio 2019\Excercises\bin\Debug\netcoreapp3.1\Excercises.dll
+C:\Users\sharo\Documents\Visual Studio 2019\Excercises\bin\Debug\netcoreapp3.1\Excercises.pdb
+C:\Users\sharo\Documents\Visual Studio 2019\Excercises\obj\Debug\netcoreapp3.1\Excercises.csprojAssemblyReference.cache
+C:\Users\sharo\Documents\Visual Studio 2019\Excercises\obj\Debug\netcoreapp3.1\Excercises.csproj.CoreCompileInputs.cache
+C:\Users\sharo\Documents\Visual Studio 2019\Excercises\obj\Debug\netcoreapp3.1\Excercises.AssemblyInfoInputs.cache
+C:\Users\sharo\Documents\Visual Studio 2019\Excercises\obj\Debug\netcoreapp3.1\Excercises.AssemblyInfo.cs
+C:\Users\sharo\Documents\Visual Studio 2019\Excercises\obj\Debug\netcoreapp3.1\Excercises.dll
+C:\Users\sharo\Documents\Visual Studio 2019\Excercises\obj\Debug\netcoreapp3.1\Excercises.pdb
+C:\Users\sharo\Documents\Visual Studio 2019\Excercises\obj\Debug\netcoreapp3.1\Excercises.genruntimeconfig.cache

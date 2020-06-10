@@ -1,0 +1,12 @@
+C:\Users\sharo\Documents\Visual Studio 2019\Learningcs\bin\Debug\netcoreapp3.1\Learningcs.exe
+C:\Users\sharo\Documents\Visual Studio 2019\Learningcs\bin\Debug\netcoreapp3.1\Learningcs.deps.json
+C:\Users\sharo\Documents\Visual Studio 2019\Learningcs\bin\Debug\netcoreapp3.1\Learningcs.runtimeconfig.json
+C:\Users\sharo\Documents\Visual Studio 2019\Learningcs\bin\Debug\netcoreapp3.1\Learningcs.runtimeconfig.dev.json
+C:\Users\sharo\Documents\Visual Studio 2019\Learningcs\bin\Debug\netcoreapp3.1\Learningcs.dll
+C:\Users\sharo\Documents\Visual Studio 2019\Learningcs\bin\Debug\netcoreapp3.1\Learningcs.pdb
+C:\Users\sharo\Documents\Visual Studio 2019\Learningcs\obj\Debug\netcoreapp3.1\Learningcs.csproj.CoreCompileInputs.cache
+C:\Users\sharo\Documents\Visual Studio 2019\Learningcs\obj\Debug\netcoreapp3.1\Learningcs.AssemblyInfoInputs.cache
+C:\Users\sharo\Documents\Visual Studio 2019\Learningcs\obj\Debug\netcoreapp3.1\Learningcs.AssemblyInfo.cs
+C:\Users\sharo\Documents\Visual Studio 2019\Learningcs\obj\Debug\netcoreapp3.1\Learningcs.dll
+C:\Users\sharo\Documents\Visual Studio 2019\Learningcs\obj\Debug\netcoreapp3.1\Learningcs.pdb
+C:\Users\sharo\Documents\Visual Studio 2019\Learningcs\obj\Debug\netcoreapp3.1\Learningcs.genruntimeconfig.cache

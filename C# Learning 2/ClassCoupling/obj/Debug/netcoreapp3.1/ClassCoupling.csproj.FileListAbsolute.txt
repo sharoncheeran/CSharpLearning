@@ -1,0 +1,13 @@
+C:\Users\sharo\Documents\Visual Studio 2019\C# Learning 2\ClassCoupling\bin\Debug\netcoreapp3.1\ClassCoupling.exe
+C:\Users\sharo\Documents\Visual Studio 2019\C# Learning 2\ClassCoupling\bin\Debug\netcoreapp3.1\ClassCoupling.deps.json
+C:\Users\sharo\Documents\Visual Studio 2019\C# Learning 2\ClassCoupling\bin\Debug\netcoreapp3.1\ClassCoupling.runtimeconfig.json
+C:\Users\sharo\Documents\Visual Studio 2019\C# Learning 2\ClassCoupling\bin\Debug\netcoreapp3.1\ClassCoupling.runtimeconfig.dev.json
+C:\Users\sharo\Documents\Visual Studio 2019\C# Learning 2\ClassCoupling\bin\Debug\netcoreapp3.1\ClassCoupling.dll
+C:\Users\sharo\Documents\Visual Studio 2019\C# Learning 2\ClassCoupling\bin\Debug\netcoreapp3.1\ClassCoupling.pdb
+C:\Users\sharo\Documents\Visual Studio 2019\C# Learning 2\ClassCoupling\obj\Debug\netcoreapp3.1\ClassCoupling.csprojAssemblyReference.cache
+C:\Users\sharo\Documents\Visual Studio 2019\C# Learning 2\ClassCoupling\obj\Debug\netcoreapp3.1\ClassCoupling.AssemblyInfoInputs.cache
+C:\Users\sharo\Documents\Visual Studio 2019\C# Learning 2\ClassCoupling\obj\Debug\netcoreapp3.1\ClassCoupling.AssemblyInfo.cs
+C:\Users\sharo\Documents\Visual Studio 2019\C# Learning 2\ClassCoupling\obj\Debug\netcoreapp3.1\ClassCoupling.csproj.CoreCompileInputs.cache
+C:\Users\sharo\Documents\Visual Studio 2019\C# Learning 2\ClassCoupling\obj\Debug\netcoreapp3.1\ClassCoupling.dll
+C:\Users\sharo\Documents\Visual Studio 2019\C# Learning 2\ClassCoupling\obj\Debug\netcoreapp3.1\ClassCoupling.pdb
+C:\Users\sharo\Documents\Visual Studio 2019\C# Learning 2\ClassCoupling\obj\Debug\netcoreapp3.1\ClassCoupling.genruntimeconfig.cache

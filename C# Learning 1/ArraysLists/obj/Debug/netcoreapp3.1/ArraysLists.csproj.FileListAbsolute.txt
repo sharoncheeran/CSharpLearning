@@ -1,0 +1,13 @@
+C:\Users\sharo\Documents\Visual Studio 2019\ArraysLists\bin\Debug\netcoreapp3.1\ArraysLists.exe
+C:\Users\sharo\Documents\Visual Studio 2019\ArraysLists\bin\Debug\netcoreapp3.1\ArraysLists.deps.json
+C:\Users\sharo\Documents\Visual Studio 2019\ArraysLists\bin\Debug\netcoreapp3.1\ArraysLists.runtimeconfig.json
+C:\Users\sharo\Documents\Visual Studio 2019\ArraysLists\bin\Debug\netcoreapp3.1\ArraysLists.runtimeconfig.dev.json
+C:\Users\sharo\Documents\Visual Studio 2019\ArraysLists\bin\Debug\netcoreapp3.1\ArraysLists.dll
+C:\Users\sharo\Documents\Visual Studio 2019\ArraysLists\bin\Debug\netcoreapp3.1\ArraysLists.pdb
+C:\Users\sharo\Documents\Visual Studio 2019\ArraysLists\obj\Debug\netcoreapp3.1\ArraysLists.csprojAssemblyReference.cache
+C:\Users\sharo\Documents\Visual Studio 2019\ArraysLists\obj\Debug\netcoreapp3.1\ArraysLists.csproj.CoreCompileInputs.cache
+C:\Users\sharo\Documents\Visual Studio 2019\ArraysLists\obj\Debug\netcoreapp3.1\ArraysLists.AssemblyInfoInputs.cache
+C:\Users\sharo\Documents\Visual Studio 2019\ArraysLists\obj\Debug\netcoreapp3.1\ArraysLists.AssemblyInfo.cs
+C:\Users\sharo\Documents\Visual Studio 2019\ArraysLists\obj\Debug\netcoreapp3.1\ArraysLists.dll
+C:\Users\sharo\Documents\Visual Studio 2019\ArraysLists\obj\Debug\netcoreapp3.1\ArraysLists.pdb
+C:\Users\sharo\Documents\Visual Studio 2019\ArraysLists\obj\Debug\netcoreapp3.1\ArraysLists.genruntimeconfig.cache

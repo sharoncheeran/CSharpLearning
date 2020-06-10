@@ -1,0 +1,13 @@
+C:\Users\sharo\Documents\Visual Studio 2019\C# Learning 2\PropertiesGETSET\bin\Debug\netcoreapp3.1\PropertiesGETSET.exe
+C:\Users\sharo\Documents\Visual Studio 2019\C# Learning 2\PropertiesGETSET\bin\Debug\netcoreapp3.1\PropertiesGETSET.deps.json
+C:\Users\sharo\Documents\Visual Studio 2019\C# Learning 2\PropertiesGETSET\bin\Debug\netcoreapp3.1\PropertiesGETSET.runtimeconfig.json
+C:\Users\sharo\Documents\Visual Studio 2019\C# Learning 2\PropertiesGETSET\bin\Debug\netcoreapp3.1\PropertiesGETSET.runtimeconfig.dev.json
+C:\Users\sharo\Documents\Visual Studio 2019\C# Learning 2\PropertiesGETSET\bin\Debug\netcoreapp3.1\PropertiesGETSET.dll
+C:\Users\sharo\Documents\Visual Studio 2019\C# Learning 2\PropertiesGETSET\bin\Debug\netcoreapp3.1\PropertiesGETSET.pdb
+C:\Users\sharo\Documents\Visual Studio 2019\C# Learning 2\PropertiesGETSET\obj\Debug\netcoreapp3.1\PropertiesGETSET.csprojAssemblyReference.cache
+C:\Users\sharo\Documents\Visual Studio 2019\C# Learning 2\PropertiesGETSET\obj\Debug\netcoreapp3.1\PropertiesGETSET.AssemblyInfoInputs.cache
+C:\Users\sharo\Documents\Visual Studio 2019\C# Learning 2\PropertiesGETSET\obj\Debug\netcoreapp3.1\PropertiesGETSET.AssemblyInfo.cs
+C:\Users\sharo\Documents\Visual Studio 2019\C# Learning 2\PropertiesGETSET\obj\Debug\netcoreapp3.1\PropertiesGETSET.csproj.CoreCompileInputs.cache
+C:\Users\sharo\Documents\Visual Studio 2019\C# Learning 2\PropertiesGETSET\obj\Debug\netcoreapp3.1\PropertiesGETSET.dll
+C:\Users\sharo\Documents\Visual Studio 2019\C# Learning 2\PropertiesGETSET\obj\Debug\netcoreapp3.1\PropertiesGETSET.pdb
+C:\Users\sharo\Documents\Visual Studio 2019\C# Learning 2\PropertiesGETSET\obj\Debug\netcoreapp3.1\PropertiesGETSET.genruntimeconfig.cache

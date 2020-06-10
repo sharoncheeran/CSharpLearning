@@ -1,0 +1,13 @@
+C:\Users\sharo\Documents\Visual Studio 2019\C# Learning 2\CompositionInheritance\bin\Debug\netcoreapp3.1\CompositionInheritance.exe
+C:\Users\sharo\Documents\Visual Studio 2019\C# Learning 2\CompositionInheritance\bin\Debug\netcoreapp3.1\CompositionInheritance.deps.json
+C:\Users\sharo\Documents\Visual Studio 2019\C# Learning 2\CompositionInheritance\bin\Debug\netcoreapp3.1\CompositionInheritance.runtimeconfig.json
+C:\Users\sharo\Documents\Visual Studio 2019\C# Learning 2\CompositionInheritance\bin\Debug\netcoreapp3.1\CompositionInheritance.runtimeconfig.dev.json
+C:\Users\sharo\Documents\Visual Studio 2019\C# Learning 2\CompositionInheritance\bin\Debug\netcoreapp3.1\CompositionInheritance.dll
+C:\Users\sharo\Documents\Visual Studio 2019\C# Learning 2\CompositionInheritance\bin\Debug\netcoreapp3.1\CompositionInheritance.pdb
+C:\Users\sharo\Documents\Visual Studio 2019\C# Learning 2\CompositionInheritance\obj\Debug\netcoreapp3.1\CompositionInheritance.csprojAssemblyReference.cache
+C:\Users\sharo\Documents\Visual Studio 2019\C# Learning 2\CompositionInheritance\obj\Debug\netcoreapp3.1\CompositionInheritance.AssemblyInfoInputs.cache
+C:\Users\sharo\Documents\Visual Studio 2019\C# Learning 2\CompositionInheritance\obj\Debug\netcoreapp3.1\CompositionInheritance.AssemblyInfo.cs
+C:\Users\sharo\Documents\Visual Studio 2019\C# Learning 2\CompositionInheritance\obj\Debug\netcoreapp3.1\CompositionInheritance.csproj.CoreCompileInputs.cache
+C:\Users\sharo\Documents\Visual Studio 2019\C# Learning 2\CompositionInheritance\obj\Debug\netcoreapp3.1\CompositionInheritance.dll
+C:\Users\sharo\Documents\Visual Studio 2019\C# Learning 2\CompositionInheritance\obj\Debug\netcoreapp3.1\CompositionInheritance.pdb
+C:\Users\sharo\Documents\Visual Studio 2019\C# Learning 2\CompositionInheritance\obj\Debug\netcoreapp3.1\CompositionInheritance.genruntimeconfig.cache

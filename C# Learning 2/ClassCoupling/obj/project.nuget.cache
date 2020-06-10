@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "4JtdzvFnVO43el/29z8h9/T24WXY/N4179molOi2LmbsaJMRSKCbG1RRrRys4P6+99OFcwVoINAqOaQwKIGXgQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\sharo\\Documents\\Visual Studio 2019\\C# Learning 2\\ClassCoupling\\ClassCoupling.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\sharo\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}
